@@ -14,11 +14,11 @@ npm run serve
 
 An application built with Vue. Here, you can choose your personal coach, exchange messages with them, register as a coach, and utilize an advanced filtering method to find the perfect coach based on their skills. You can also send a message to the coach.
 
-<img align="left" alt="coaches" width="600" src="./coaches.png" />
-<img align="left" alt="register" width="600" src="./register.png" />
-<img align="left" alt="form-message" width="600"  src="./message.png" />
+<img align="left" alt="coaches" width="600" src="./public/coaches.png" />
+<img align="left" alt="register" width="600" src="./public/register.png" />
+<img align="left" alt="form-message" width="600"  src="./public/message.png" />
 
-[Visit our website](https://coach-81ea7.web.app)
+[Visit  website](https://coach-81ea7.web.app)
 
 ### Compiles and minifies for production
 
